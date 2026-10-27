@@ -205,7 +205,7 @@ These are data-informed hypotheses to test, not proof that changing spend alone 
 ## 👨‍💻 Project Author
 
 **Mohd Fuzail Salmani**  
-Aspiring AI Engineer | Data Analytics | Python • SQL • Power BI
+Aspiring Business Intelligence Analyst | Data Analytics | Python • SQL • Power BI
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/fuzailsalmani/)
 
