@@ -208,7 +208,6 @@ These are data-informed hypotheses to test, not proof that changing spend alone 
 Aspiring AI Engineer | Data Analytics | Python • SQL • Power BI
 
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/fuzailsalmani/)
-- 🐙 GitHub: Add your GitHub profile URL here
 
 ## 🤝 Let's Connect & Discuss!
 
